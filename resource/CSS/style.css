@@ -41,7 +41,6 @@ header{
 
 h1 {
     display: inline-block; /* Đổi từ inline sang inline-block để width có hiệu lực */
-    
     position: relative;
     top: -20px;
     left: 50px;
