@@ -51,7 +51,11 @@ h1 {
     font-style: normal;
     color: transparent; /* Sửa đổi để màu chữ trong suốt */
     letter-spacing: 5px;
+<<<<<<< HEAD
     background-image: url("../img/text-color.jpg");
+=======
+    background-image: url("/resource/img/text-color.jpgs");
+>>>>>>> 0f270ec8fda75494f5061086c9fc2e7d07eb916f
     background-size: cover;
     -webkit-background-clip: text; /* Thêm tiền tố -webkit- cho background-clip */
     background-clip: text; /* Để đảm bảo tương thích với các trình duyệt khác */
@@ -74,7 +78,11 @@ h1 {
     margin: 0 auto;
     position: relative;
     background-size: cover;
+<<<<<<< HEAD
     background-image: url("../img/avata.jpg");
+=======
+    background-image: url("./img/avata.jpg");
+>>>>>>> 0f270ec8fda75494f5061086c9fc2e7d07eb916f
 }
 
 /* .profile-picture img {
