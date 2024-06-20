@@ -76,7 +76,7 @@ h1 {
     background-image: url("../img/avata.jpg");
 }
 
-/* .profile-picture img {
+ .profile-picture img {
     position: absolute;
     left:50%;
     bottom : 50%;
@@ -84,7 +84,7 @@ h1 {
     width: 100%;
     border-radius: 50%;
     
-} */
+} 
 
 .cv-section, .social-media, .gaming-profiles {
     margin: 2em 0;
