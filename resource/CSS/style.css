@@ -4,28 +4,18 @@
     box-sizing: border-box;
 }
 
-/* color palette */
-/* rgb(5, 12, 156)
-rgb(53, 114, 239)
-rgb(58, 190, 249)
-rgb(167, 230, 255) */
-
 body {
     font-family: Arial, sans-serif;
     overflow: hidden;
     background: linear-gradient(to bottom, rgb(0, 0, 0) 60%, rgb(105, 6, 6), rgb(185, 1, 1));
 }
 footer {
-    
     text-align: center;
     padding: 1em;
 }
 
 header{
-   
     padding: 1% 4% 0% 4%;
-   
-   
 }
 
 .container {
