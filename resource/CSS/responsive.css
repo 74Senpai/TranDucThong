@@ -55,4 +55,8 @@
     .title ul {
         list-style: disc;
     }
+
+    body {
+        min-height: 100dvh;
+    }
 }
